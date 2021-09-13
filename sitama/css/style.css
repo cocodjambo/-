@@ -1,0 +1,130 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Varela Round', sans-serif;
+    background: #eee;
+    background-blend-mode: multiply;
+    display: table;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    
+}
+.katalog li{
+  display: inline;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px; 
+   
+    color: #AE7C78;
+
+    
+}
+.avtor{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 59px;
+    
+    color: #AE7C78;
+    
+}
+.orig{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #AE7C78;
+}
+.one{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    
+    
+    
+    color: #AE7C78;
+}
+.two{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    
+    color: #AE7C78;
+}
+h2{
+    font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+
+color: #AE7C78;
+}
+h3{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #AE7C78;
+    
+}
+h4{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #AE7C78;
+
+}
+p{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+
+color: #AE7C78;
+
+}
+ul{
+    list-style-type: none;
+}
+blockquote{
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #AE7C78;
+}
+.p{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #AE7C78;
+
+}
